@@ -1,0 +1,54 @@
+html,body{
+    background-color: white;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+header{
+    background-color: rgb(196, 146, 243);
+    height: 60%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+main{
+    height: 100%;
+}
+.secciones{
+    height: 100%;
+    flex-direction: row;
+    display: flex;
+
+}
+.seccionderecha{
+    background-color: grey;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seccioncentro{
+    background-color: blue;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seccionizquierda{
+    background-color: grey;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    background-color: yellowgreen;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
